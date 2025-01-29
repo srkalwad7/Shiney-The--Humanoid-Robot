@@ -23,3 +23,5 @@ Limitations and Future Prospects:
 
 The current hardware imposes constraints on real-time processing and advanced AI-based interactions, such as deep learning. Power consumption is also a concern, leading to relatively short operational times before requiring a recharge. Future plans include interfacing Shiney with advanced AI models like ChatGPT to enhance its conversational abilities, potentially expanding its applications in education, customer support, and other areas.
 In summary, Shiney represents a significant advancement in robotics, emphasizing its ability to interact with people through expressive movements and communication. With planned enhancements, it holds promise for versatile applications in various fields.
+
+Demo-https://drive.google.com/file/d/11N_WVHbsh95XmuU7nNukxUEIt8DauoQj/view?usp=drive_link
